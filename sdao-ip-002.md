@@ -91,12 +91,7 @@ SDOGs will be considered a perpetual warrant honored by SDAO. Anybody, at any ti
 
 This proposal seeks to treat SDOG tokens as a reward rate (APY/APR) booster/multiplier. Investors staking SDOG tokens at the end of each epoch will receive the benefit of their reward rate multiplied by a factor, ‘SDOG_APY_Multiplier’, equal to:
 
->1 + (Base_SDOG_APY_Multiplier - 1) * (SDOG_Deposited / SDOG_Supply)
-
-where:  
->Base_SDOG_APY_Multiplier: Variable rate set by treasury policy (and subject to future DAO approval)  
->SDOG_Deposited: Total SDOGs staked/held by investors at each epoch, sharing the same address as their sSD2 holdings.  
->SDOG_Supply: Static value, capped at 75,111.428067
+<img src="https://latex.codecogs.com/svg.latex?\small&space;1&space;&plus;&space;(SDOG\,&space;APY\,&space;Multiplier_{Base}&space;-&space;1)&space;*&space;\frac{SDOG_{Deposited}}{SDOG_{Supply}}&space;\\&space;\\&space;where:&space;\\&space;SDOG\,&space;APY\,&space;Multiplier_{Base}:\&space;\&space;variable\&space;rate\&space;set\&space;by\&space;treasury\&space;policy\&space;(and\&space;subject\&space;to\&space;future\&space;DAO\&space;approval)\\&space;SDOG_{Deposited}:\&space;\&space;total\&space;SDOGs\&space;staked\&space;by\&space;investors\&space;at\&space;each\&space;epoch,\&space;sharing\&space;the\&space;same\&space;address\&space;as\&space;their\&space;sSD2\&space;holdings\\&space;SDOG_{Supply}:\&space;\&space;static\&space;value,\&space;capped\&space;at\&space;75,111.428067" title="\small 1 + (SDOG\, APY\, Multiplier_{Base} - 1) * \frac{SDOG_{Deposited}}{SDOG_{Supply}} \\ \\ where: \\ SDOG\, APY\, Multiplier_{Base}:\ \ variable\ rate\ set\ by\ treasury\ policy\ (and\ subject\ to\ future\ DAO\ approval)\\ SDOG_{Deposited}:\ \ total\ SDOGs\ staked\ by\ investors\ at\ each\ epoch,\ sharing\ the\ same\ address\ as\ their\ sSD2\ holdings\\ SDOG_{Supply}:\ \ static\ value,\ capped\ at\ 75,111.428067" />
 
 Note that staking rewards can only be paid in SD2, irrespective of whether the staking is carried out via SD2 only or a combination of SDOG and SD2. Users will not be able to stake SDOG tokens without SD2. SDOG utility is limited to the detailed reward rate boost mechanics, the result of which is then retroactively applied to the user’s total sSD2 (staked SD2) holdings at the end of each epoch.
 
@@ -142,7 +137,12 @@ The ‘Base SDOG APY multiplier’ will be a variable rate set by future DAO vot
 
 ---
 
-Please consider each option in detail before voting.  
+### Recap
 
-Join the SDAO [Discord](https://discord.com/invite/2B8xctNajA) for general discussion or to seek clarification of the options detailed.
+Please consider each option in detail before voting. 
 
+Again, there are **TWO** options for the community to consider;
+- Option 1: SDOG utility as a warrant/option token
+- Option 2: SDOG utility as a reward rate booster/multiplier
+
+Join the SDAO [Discord](https://discord.com/invite/2B8xctNajA) for general discussions or to seek clarification of the options.
