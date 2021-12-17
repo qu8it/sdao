@@ -13,8 +13,8 @@ SDOG community feedback has been invaluable in enhancing proposal [**SDIP-002**]
 In total, there are **FOUR** options for the community to consider and vote on;
 - Option 1: SDOG Utility: Warrant/Option Token Feature
 - Option 2: SDOG Utility: Reward Rate Booster/Multiplier 
-- Option 3: SDOG Conversion: Airdrop 1:1 New SD2 to SDOG Tokens 
-- Option 3: SDOG Conversion: Airdrop: 1:10 New SD2 to SDOG Tokens 
+- Option 3: SDOG Airdrop: 1:1 SD2 to SDOG Tokens 
+- Option 3: SDOG Airdrop: 1:10 SD2 to SDOG Tokens 
 
 An overview of the options is presented in the table below. 
 
